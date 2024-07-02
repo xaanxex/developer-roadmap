@@ -11,3 +11,4 @@ There are three types of exceptions -
 Visit the following resources to learn more:
 
 - [@video@Understanding Java Exceptions](https://www.youtube.com/watch?v=W-N2ltgU-X4)
+- [@article@Mastering java exception handling: a comprehensive guide](mastering-java-exception-handling-a-comprehensive-guide)
